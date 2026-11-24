@@ -37,21 +37,21 @@
 <text x="56.0" y="216.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">every stacked day it beats: 72 resolves 69 (wait 1) and 71 (wait 2); later 76</text>
 <text x="56.0" y="235.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">resolves 72, 75, 74, 73 at once.</text>
 <text x="24.0" y="259.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="600">resolutions</text>
-<text x="47.0" y="275.0" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#64748b" text-anchor="middle">arrival</text>
-<text x="93.0" y="275.0" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#64748b" text-anchor="middle">resolves</text>
-<text x="139.0" y="275.0" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#64748b" text-anchor="middle">answers</text>
-<rect x="24.0" y="281.0" width="44.0" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
-<text x="46.0" y="301.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">72 @ 5</text>
-<rect x="70.0" y="281.0" width="44.0" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
-<text x="92.0" y="301.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">69 @ 4, 71 @ 3</text>
-<rect x="116.0" y="281.0" width="44.0" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
-<text x="138.0" y="301.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">waits 1, 2</text>
-<rect x="24.0" y="313.0" width="44.0" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
-<text x="46.0" y="333.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">76 @ 6</text>
-<rect x="70.0" y="313.0" width="44.0" height="30.0" rx="4" fill="#dcfce7" stroke="#16a34a" stroke-width="1.2"/>
-<text x="92.0" y="333.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">72, 75, 74, 73</text>
-<rect x="116.0" y="313.0" width="44.0" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
-<text x="138.0" y="333.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">waits 1, 4, 5, 6</text>
+<text x="54.8" y="275.0" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#64748b" text-anchor="middle">arrival</text>
+<text x="140.2" y="275.0" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#64748b" text-anchor="middle">resolves</text>
+<text x="256.2" y="275.0" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#64748b" text-anchor="middle">answers</text>
+<rect x="24.0" y="281.0" width="59.6" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="53.8" y="301.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">72 @ 5</text>
+<rect x="85.6" y="281.0" width="107.2" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="139.2" y="301.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">69 @ 4, 71 @ 3</text>
+<rect x="194.8" y="281.0" width="120.8" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="255.2" y="301.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">waits 1, 2</text>
+<rect x="24.0" y="313.0" width="59.6" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="53.8" y="333.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">76 @ 6</text>
+<rect x="85.6" y="313.0" width="107.2" height="30.0" rx="4" fill="#dcfce7" stroke="#16a34a" stroke-width="1.2"/>
+<text x="139.2" y="333.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">72, 75, 74, 73</text>
+<rect x="194.8" y="313.0" width="120.8" height="30.0" rx="4" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="255.2" y="333.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">waits 1, 4, 5, 6</text>
 <line x1="24.0" y1="359.0" x2="736.0" y2="359.0" stroke="#e2e8f0" stroke-width="1"/>
 <circle cx="35.0" cy="379.0" r="11" fill="#2563eb" stroke="#2563eb" stroke-width="1.4"/>
 <text x="35.0" y="383.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="600">3</text>
